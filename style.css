@@ -56,4 +56,10 @@
 
 .userflash {
     background-color: blue;
+}.author {
+    position: relative;
+    left: 20rem;
+    top : 40rem;
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
